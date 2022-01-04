@@ -32,7 +32,7 @@ class CountdownTimer {
 }
 const timer1 = new CountdownTimer({
   selector: '#timer-1',
-    targetDate: new Date('Jan 01, 2022'),
+    targetDate: new Date('Jan 01, 2023'),
 });
 
 const timer2 = new CountdownTimer({
